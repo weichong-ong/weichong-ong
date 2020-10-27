@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact: A mechanical engineer  wants to become a **Data Analyst**, with an ultimate goal of becoming a **Data 'Artist'**
 
-- :rocket: My journey into Data Science begins with a book called [**The Power of Habit**](https://www.amazon.de/-/en/Charles-Duhigg/dp/1847946240/ref=sr_1_1?crid=623EWT9ELMN8&dchild=1&keywords=the+power+of+habit&qid=1603792487&sprefix=the+power+of+hab%2Caps%2C173&sr=8-1) by Charles Duhigg
+- :rocket: My journey into Data Science begins with a book called [**The Power of Habit**](https://www.amazon.de/-/en/Charles-Duhigg/dp/1847946240/ref=sr_1_1?crid=623EWT9ELMN8&dchild=1&keywords=the+power+of+habit&qid=1603792487&sprefix=the+power+of+hab%2Caps%2C173&sr=8-1) by **Charles Duhigg**
 
 - 💬 Favorite quote: Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
 
