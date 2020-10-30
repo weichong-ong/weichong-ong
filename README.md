@@ -10,7 +10,9 @@
 
 - 💬 Favorite quote: Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
 
-- 📫 Get in touch: [**weichong0711@hotmail**](weichong0711@hotmail)
+- 📫 Get in touch: 
+  - [**Email**](weichong0711@hotmail)
+  - [**LinkedIn**](https://www.linkedin.com/in/wei-chong-ong-6b5a74188/)
  
 
 
