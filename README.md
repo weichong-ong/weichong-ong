@@ -12,7 +12,7 @@
 
 - 📫 Get in touch: 
   - **Email**: weichong0711@hotmail.com
-  - [**LinkedIn**](https://www.linkedin.com/in/wei-chong-ong-6b5a74188/)
+  - **LinkedIn**: https://www.linkedin.com/in/wei-chong-ong-6b5a74188/
  
 
 
