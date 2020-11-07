@@ -11,10 +11,15 @@
 💬 Favorite quote: Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
 
 📫 Let's connect and chat! Open to anything under the sun.
-* **Email**: weichong0711@hotmail.com
-* **LinkedIn**: https://www.linkedin.com/in/wei-chong-ong-6b5a74188/
 
 <!--
+
+[![email](https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png)][1]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+
+[1]: weichong0711@hotmail.com
+[2]: https://www.linkedin.com/in/wei-chong-ong-6b5a74188/
+
 **weichong-ong/weichong-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 curiousity and ability to go and find my own answers 
