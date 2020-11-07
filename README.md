@@ -10,25 +10,23 @@
 
 💬 Favorite quote: Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
 
-Let's connect and chat! Open to anything under the sun
-[<a href="mailto:weichong0711@hotmail.com?"><img src="https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png" width="20" height="20" /></a>][1]
-[<img src="https://user-images.githubusercontent.com/65392299/98444918-dca81e80-2114-11eb-8c4b-634a781be651.png" width="20" height="20" />][2]
+📫 Let's connect and chat! Open to anything under the sun.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png" width="30" height="30" />][1]&nbsp;&nbsp;
+[<img src="https://user-images.githubusercontent.com/65392299/98444918-dca81e80-2114-11eb-8c4b-634a781be651.png" width="30" height="30" />][2]
 
 [1]: weichong0711@hotmail.com
 [2]: https://www.linkedin.com/in/wei-chong-ong-6b5a74188/
 
 <!--
 
-[<img src="https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png" width="20" height="20" />][1]
-
-[![email](https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png)][1]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+[<a href="mailto:weichong0711@hotmail.com?"><p align="center"><img src="https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png" width="30" height="30" /></a>][1]&nbsp;&nbsp;
+[<img src="https://user-images.githubusercontent.com/65392299/98444918-dca81e80-2114-11eb-8c4b-634a781be651.png" width="30" height="30" /></p>][2]
 
 
 
 
 **weichong-ong/weichong-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-📫
+
 curiousity and ability to go and find my own answers 
 People who come with the Udacity training are already really demonstrating that because we're unafraid to go and teach our something new.
 
