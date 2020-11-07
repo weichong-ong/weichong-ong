@@ -11,8 +11,9 @@
 💬 Favorite quote: Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
 
 📫 Let's connect and chat! Open to anything under the sun.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="mailto:weichong0711@hotmail.com?"><img src="https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png" width="30" height="30" /></a>][1]&nbsp;&nbsp;
-[<img src="https://user-images.githubusercontent.com/65392299/98444918-dca81e80-2114-11eb-8c4b-634a781be651.png" width="30" height="30" />][2]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="mailto:weichong0711@hotmail.com?"><img src="https://user-images.githubusercontent.com/65392299/98444818-352aec00-2114-11eb-96b0-08844d117a63.png" width="25" height="25" /></a>][1]&nbsp;&nbsp;
+[<img src="https://user-images.githubusercontent.com/65392299/98444918-dca81e80-2114-11eb-8c4b-634a781be651.png" width="25" height="25" />][2]
 
 [1]: weichong0711@hotmail.com
 [2]: https://www.linkedin.com/in/wei-chong-ong-6b5a74188/
