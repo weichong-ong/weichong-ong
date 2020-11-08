@@ -1,6 +1,6 @@
 # Wei Chong Ong
 
-👨🏻‍🎓 Currently enrolled in the [**Udacity's Data Analyst Nanodegree Program**](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+👨🏻‍🎓Currently enrolled in the [**Udacity's Data Analyst Nanodegree Program**](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 :briefcase: Seeking new opportunities in the field of Data Science
 
