@@ -2,11 +2,11 @@
 
 👨🏻‍🎓 Currently enrolled in the [**Udacity's Data Analyst Nanodegree Program**](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-:briefcase: **In search of employment** in the field of Data Science
+:briefcase: Seeking new opportunities in the field of Data Science
 
 :rocket: Fun fact: My journey into Data Science begins with a book called [**The Power of Habit**](https://www.amazon.de/-/en/Charles-Duhigg/dp/1847946240/ref=sr_1_1?crid=623EWT9ELMN8&dchild=1&keywords=the+power+of+habit&qid=1603792487&sprefix=the+power+of+hab%2Caps%2C173&sr=8-1) by **Charles Duhigg**
 
-⚡ A Mechanical Engineer  wants to become a **Data Analyst**, with an ultimate goal of becoming a **Data 'Artist'**
+⚡ A Mechanical Engineer wants to become a **Data Analyst**, with an ultimate goal of becoming a **Data 'Artist'**
 
 💬 Favorite quote: Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
 
@@ -40,6 +40,7 @@ People who come with the Udacity training are already really demonstrating that 
 - :beginner: Beginner's mindset and curiousity
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
