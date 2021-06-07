@@ -2,7 +2,7 @@
 
 👨🏻‍🎓[**Udacity's Data Analyst Nanodegree Program**](https://www.udacity.com/course/data-analyst-nanodegree--nd002) Graduate
 
-:briefcase: Seeking new opportunities in the field of Data Science
+:briefcase: Data Engineer
 
 :rocket: Fun fact: My journey into Data Science begins with a book called [**The Power of Habit**](https://www.amazon.de/-/en/Charles-Duhigg/dp/1847946240/ref=sr_1_1?crid=623EWT9ELMN8&dchild=1&keywords=the+power+of+habit&qid=1603792487&sprefix=the+power+of+hab%2Caps%2C173&sr=8-1) by **Charles Duhigg**
 
