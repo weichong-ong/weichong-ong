@@ -1,6 +1,6 @@
 # Wei Chong Ong
 
-👨🏻‍🎓[**Udacity's Data Analyst Nanodegree Program**](https://www.udacity.com/course/data-analyst-nanodegree--nd002) Graduate
+👨🏻‍🎓[**Udacity's Data Analyst Nanodegree Program**](https://www.udacity.com/course/data-analyst-nanodegree--nd002) Graduate, currently taking Data Scientist Nanodegree
 
 :briefcase: Data Engineer
 
