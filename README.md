@@ -1,14 +1,15 @@
 # Wei Chong Ong
 
+:fire: **Passion:** Data Science in Mental Health
+
 👨🏻‍🎓Udacity's [**Data Scientist**](https://www.udacity.com/course/data-scientist-nanodegree--nd025) and [**Data Analyst**](https://www.udacity.com/course/data-analyst-nanodegree--nd002) Nanodegree Graduate
 
 :briefcase: Data Engineer at Accenture/Huawei
 
-:rocket: Fun fact: My journey into Data Science begins with a book called [**The Power of Habit**](https://www.amazon.de/-/en/Charles-Duhigg/dp/1847946240/ref=sr_1_1?crid=623EWT9ELMN8&dchild=1&keywords=the+power+of+habit&qid=1603792487&sprefix=the+power+of+hab%2Caps%2C173&sr=8-1) by **Charles Duhigg**
+:boom: **Fun fact:** My journey into Data Science begins with a book called [**The Power of Habit**](https://www.amazon.de/-/en/Charles-Duhigg/dp/1847946240/ref=sr_1_1?crid=623EWT9ELMN8&dchild=1&keywords=the+power+of+habit&qid=1603792487&sprefix=the+power+of+hab%2Caps%2C173&sr=8-1) by **Charles Duhigg**
 
-⚡ Passion and Purpose: Working together with psychologists to tackle mental health issues using data science
 
-💬 Favorite quote: Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
+💬 **Favorite quote:** Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. - **Donald Knuth**
 
 <br>
 <p align="center"><i>Let's connect and chat! Open to anything under the sun.</i><br></p>
