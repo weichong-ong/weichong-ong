@@ -1,6 +1,6 @@
 # Wei Chong Ong
 
-:fire: **Passion:** Data Science in Mental Health
+:fire: **Passion:** Data Science and Psychology
 
 👨🏻‍🎓Udacity's [**Data Scientist**](https://www.udacity.com/course/data-scientist-nanodegree--nd025) and [**Data Analyst**](https://www.udacity.com/course/data-analyst-nanodegree--nd002) Nanodegree Graduate
 
